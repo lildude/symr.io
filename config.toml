@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://symr.io'
 languageCode = 'en-us'
 title = 'symr.io'
 theme = 'netlify-basic'
